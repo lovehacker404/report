@@ -1,4 +1,4 @@
-require 'rubygems'
+require 'python2'
 require 'mechanize'
 require 'colorize'
 require 'optparse'
